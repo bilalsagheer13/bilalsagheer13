@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
   <img width="12" />
+ <img src="https://skillicons.dev/icons?i=next" height="60" alt="Next logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
