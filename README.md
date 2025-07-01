@@ -50,3 +50,35 @@
 </picture>
 
 ###
+
+# 👋 Hi, I'm Bilal Sagheer Awan
+
+📍 **Lahore, Pakistan**  
+💻 **PHP | Vue.js | Laravel Developer**  
+
+## 🔥 Pinned Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalsagheer13&repo=eBay.php-scrapper)](https://github.com/bilalsagheer13/eBay.php-scrapper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalsagheer13&repo=vuejsadmin)](https://github.com/bilalsagheer13/vuejsadmin)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalsagheer13&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsagheer13&layout=compact&theme=dark)
+
+## 🐍 Contribution Snake
+![Snake Animation](https://raw.githubusercontent.com/bilalsagheer13/bilalsagheer13/output/github-contribution-grid-snake.svg)
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [bilalsagheer13/eBay.php-scrapper]
+2. 🚀 Pushed 3 commits to [bilalsagheer13/vuejsadmin]
+3. ⭐ Starred [vuejs/vue]
+<!--END_SECTION:activity-->
+
+## 📫 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-bilalsagheer13@gmail.com-red?logo=gmail)](mailto:bilalsagheer13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal_Sagheer_Awan-blue?logo=linkedin)](https://www.linkedin.com/in/bilal-sagheer-awan-818006157/)
+
+
+
