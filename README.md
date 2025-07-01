@@ -71,5 +71,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bilalsagheer13&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+## 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+</p>
 
 Feel free to explore my repositories and let me know if you want to collaborate! 🚀
