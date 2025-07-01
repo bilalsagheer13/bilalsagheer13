@@ -34,9 +34,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
+   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
   <img width="12" />
@@ -57,19 +57,14 @@
 
 ## 🚀 Technologies & Tools
 
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Vue.js
-- **Backend**: Node.js, Python, PHP, Go, GraphQL
+- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Nextjs
+- **Backend**: Node.js, Python, PHP, Laravel, GraphQL, Codeigniter
 - **Databases**: MongoDB, Redis
 - **Containerization**: Docker
 - **Cloud**: AWS, DigitalOcean
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, Bitbucket
 - **Development Tools**: Visual Studio Code, Cursor, PHPStorm, WebStorm
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalsagheer13&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ## 💻 Coding Activity
 
