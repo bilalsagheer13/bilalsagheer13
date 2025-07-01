@@ -1,7 +1,7 @@
 # Welcome to My GitHub!
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/bilalsagheer13?s=100" height="100" alt="Profile Picture" />
+  <img src="https://avatars.githubusercontent.com/u/50838573?v=4" height="100" alt="Profile Picture" />
 </p>
 
 <p align="center">
