@@ -1,37 +1,52 @@
-# Hi, I'm Bilal Sagheer Awan 👨‍💻
+<h1 align="center">Hey 👋What's Up?</h1>
 
-📍 Based in Lahore, Pakistan  
-📧 bilalsagheer13@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/bilal-sagheer-awan-818006157/)
+###
 
-## 🔨 Pinned Projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-### eBay.php-scrapper (Public)
-Web scraper that finds search results from eBay and extracts product details.
+###
 
-### Jetstream Inertia Vue.js Admin (Public)
-Admin panel with multi-role authentication using Laravel Jetstream, Inertia.js and Vue.js.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-### Vue.js Applications (Public)
-- **vuejsadmin**: Admin dashboard template
-- **vuejsapp**: Sample Vue.js application
-- **vuejsapi**: Backend API for Vue.js apps
+###
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-**PHP** • **Vue.js** • **Laravel** • **Inertia.js** • **JavaScript** • **MySQL**
+###
 
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalsagheer13&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsagheer13&layout=compact&theme=radical)
-
-## 🌱 Currently Learning
-- Advanced Vue.js Composition API
-- Laravel Microservices
-
-## 📫 How to reach me
-- Email: bilalsagheer13@gmail.com
-- LinkedIn: [Bilal Sagheer Awan](https://www.linkedin.com/in/bilal-sagheer-awan-818006157/)
-- Portfolio: [YourWebsite.com]() (add if available)
+###
