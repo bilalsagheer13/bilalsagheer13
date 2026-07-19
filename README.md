@@ -72,16 +72,11 @@ Where most of my energy goes these days — connecting large language models to 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilalsagheer13&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsagheer13&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=bilalsagheer13&hide_border=true&theme=tokyonight&hide_total_contributions=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=bilalsagheer13&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsagheer13&bg_color=1a1b27&color=7aa2f7&line=bf91f3&point=70a5fd&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsagheer13&bg_color=1a1b27&color=7aa2f7&line=bf91f3&point=70a5fd&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- ===================== QUOTE ===================== -->
