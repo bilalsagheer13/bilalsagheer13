@@ -8,13 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bilal-sagheer-awan-818006157/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bilalsagheer13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bilalsagheer13&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/bilal-sagheer-awan-818006157/"><b>🔗 LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:bilalsagheer13@gmail.com"><b>📧 Email</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=bilalsagheer13&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 </p>
 
 <hr/>
@@ -42,12 +40,10 @@ Where most of my energy goes these days — connecting large language models to 
 - **Agentic Workflows** → prompt orchestration, structured outputs, and tool-calling pipelines
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow" height="45" alt="AI stack" />
-  <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28" alt="OpenAI" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="28" alt="Claude" />
-  <img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28" alt="LangChain" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" height="28" alt="MCP" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" height="45" alt="AI stack" />
 </p>
+
+> **Working with:** &nbsp;`OpenAI API` &nbsp;·&nbsp; `Anthropic Claude` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `Model Context Protocol (MCP)`
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Technologies &amp; Tools
