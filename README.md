@@ -4,10 +4,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/50838573?v=4" height="120" style="border-radius:50%" alt="Bilal Sagheer" />
-</p>
-
-<p align="center">
   <em>Full Stack Developer &amp; Associate Project Manager — designing event-driven automation<br/>and AI-powered platforms with PHP&nbsp;Laravel, Vue, React &amp; modern LLM tooling.</em>
 </p>
 
@@ -90,20 +86,6 @@ Where most of my energy goes these days — connecting large language models to 
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsagheer13&bg_color=1a1b27&color=7aa2f7&line=bf91f3&point=70a5fd&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bilalsagheer13&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</p>
-
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <!-- ===================== QUOTE ===================== -->
