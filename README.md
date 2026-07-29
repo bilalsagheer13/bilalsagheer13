@@ -86,19 +86,10 @@ bilal@github:~$ ./ai_stack --status
 
 ---
 
-### `$ git log --stat`
+### `$ ./contributions --animate`
 
 <p align="center">
-  <img width="88%" src="https://streak-stats.demolab.com?user=bilalsagheer13&hide_border=true&background=0D1117&border=00FF4133&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&excludeDaysLabel=8B949E" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilalsagheer13&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="stats" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsagheer13&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="langs" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsagheer13&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&area_color=00FF41&hide_border=true" alt="activity graph" />
+  <img width="95%" src="https://raw.githubusercontent.com/bilalsagheer13/bilalsagheer13/output/snake.svg" alt="contribution snake" />
 </p>
 
 ---
